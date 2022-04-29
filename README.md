@@ -21,7 +21,7 @@ Run with hot reload.
 npm start
 ```
 
-If [VS Code](https://code.visualstudio.com){:target="\_blank"} is being used, you could download [Thunder Client](https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client) extension and import the [Poll Collection](https://github.com/FedeGrennon/poll_backend/blob/main/.github/thunder-collection-poll.json).
+If [VS Code](https://code.visualstudio.com) is being used, you could download [Thunder Client](https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client) extension and import the [Poll Collection](https://github.com/FedeGrennon/poll_backend/blob/main/.github/thunder-collection-poll.json).
 
 ## Packages
 
